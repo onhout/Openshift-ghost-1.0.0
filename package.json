@@ -11,10 +11,10 @@
         "start": "node index"
     },
     "engines": {
-        "node": "~0.10.0 || ~0.12.0",
+        "node": "~4.2.0 || ~7.0.0",
         "iojs": "~1.2.0"
     },
     "dependencies": {
-        "ghost": "^0.7.0"
+        "ghost": "^0.11.0"
     }
 }
